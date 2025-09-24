@@ -1,5 +1,7 @@
 # Estimating Text Similarity by Shingling
 
+[![Continuous Integration](https://github.com/albi005/ase-practice2/actions/workflows/ci.yml/badge.svg)](https://github.com/albi005/ase-practice2/actions/workflows/ci.yml)
+
 **Authors:** Ármin Zavada, Kristóf Marussy
 
 **Based on work of:** Gábor Bergmann, Gábor Szárnyas
